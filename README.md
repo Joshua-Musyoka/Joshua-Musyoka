@@ -5,8 +5,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/joshua-musyoka">
-    <img src="https://img.shields.io/badge/GitHub-joshua--musyoka-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://github.com/Joshua-Musyoka">
+    <img src="https://img.shields.io/badge/GitHub-Joshua--Musyoka-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/joshua-musyoka">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -203,7 +203,7 @@ I'm always happy to connect with engineers, architects, technology leaders, and 
 Whether it's discussing system architecture, exploring emerging technologies, collaborating on open-source projects, or solving challenging engineering problems, I'm interested in conversations that lead to useful ideas and better software.
 
 <p align="center">
-  <a href="https://github.com/joshua-musyoka">
+  <a href="https://github.com/Joshua-Musyoka">
     <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/joshua-musyoka">
