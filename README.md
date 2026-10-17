@@ -73,7 +73,7 @@ I'm also exploring the possibilities of **Artificial Intelligence, Machine Learn
 ###  Cloud, DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,nginx,github,prometheus,grafana&perline=7" alt="Cloud and DevOps tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,nginx,github,prometheus,grafana" alt="Cloud and DevOps tools"/>
 </p>
 
 <!-- p>
