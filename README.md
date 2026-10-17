@@ -178,6 +178,6 @@ Install or provide:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/joshuathedevop/clinic-booking.git
+git clone https://github.com/Joshua-Musyoka/clinic-booking.git
 cd clinic-booking
 ```
