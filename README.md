@@ -5,8 +5,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/joshuathedevop">
-    <img src="https://img.shields.io/badge/GitHub-joshuathedevop-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://github.com/joshua-musyoka">
+    <img src="https://img.shields.io/badge/GitHub-joshua-musyoka-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/joshua-musyoka">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -175,6 +175,19 @@ Explore my repositories to see what I'm building and the engineering decisions b
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=joshua-musyoka&show_icons=true&hide_border=true&rank_icon=github"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-musyoka&layout=compact&hide_border=true"
+    alt="Most used programming languages"
+  />
+</p>
+
 ## 🤝 Let's Connect
 
 I'm always happy to connect with engineers, architects, technology leaders, and people building products that solve meaningful problems.
@@ -182,7 +195,7 @@ I'm always happy to connect with engineers, architects, technology leaders, and 
 Whether it's discussing system architecture, exploring emerging technologies, collaborating on open-source projects, or solving challenging engineering problems, I'm interested in conversations that lead to useful ideas and better software.
 
 <p align="center">
-  <a href="https://github.com/joshuathedevop">
+  <a href="https://github.com/joshua-musyoka">
     <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/joshua-musyoka">
