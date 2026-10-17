@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Joshua Musyoka 👋</h1>
+<h1 align="center">Hi, I'm Joshua Musyoka </h1>
 
 <h3 align="center">
   Senior Software Engineer · Solution Architect · Technical Lead
@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a software engineer with **10+ years of experience** designing, developing, and maintaining software systems that solve real-world business problems.
 
@@ -34,21 +34,21 @@ I'm also exploring the possibilities of **Artificial Intelligence, Machine Learn
 
 ---
 
-## 🚀 Technical Expertise
+##  Technical Expertise
 
-### 💻 Languages & Application Development
+###  Languages & Application Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,java,cs,js,ts" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,php" alt="Programming languages"/>
 </p>
 
-- **Languages:** PHP, Python, Java, C#, JavaScript, TypeScript
+- **Languages:** Python, Java, C#, JavaScript, TypeScript, PHP
 - **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap
 - **Mobile:** React Native, Expo
 - **Backend:** Node.js, NestJS, Laravel, Django, Spring Boot, ASP.NET Core
-- **API Engineering:** RESTful APIs, API integrations, authentication, authorization, and service design
+- **API Engineering:** RESTful APIs, GraphQL, gRPC, WebSockets, Webhooks, API Gateway Design, API Versioning, Authentication & Authorization (OAuth 2.0, OpenID Connect, JWT), Rate Limiting, API Security, Service-to-Service Communication, Third-Party Integrations, and API Documentation (OpenAPI/Swagger).
 
-### ⚙️ Backend Engineering & Distributed Systems
+###  Backend Engineering & Distributed Systems
 
 - Designing scalable backend services and modular application architectures.
 - Building asynchronous processing pipelines and event-driven applications.
@@ -57,7 +57,7 @@ I'm also exploring the possibilities of **Artificial Intelligence, Machine Learn
 - Improving application performance, reliability, and fault tolerance.
 - Designing secure APIs and maintainable business logic.
 
-### 🗄️ Databases, Caching & Messaging
+###  Databases, Caching & Messaging
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases and caching"/>
@@ -70,11 +70,15 @@ I'm also exploring the possibilities of **Artificial Intelligence, Machine Learn
 - **Message brokers:** RabbitMQ
 - **Core competencies:** Database architecture, query optimization, indexing, data integrity, replication, and asynchronous processing.
 
-### ☁️ Cloud, DevOps & Infrastructure
+###  Cloud, DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,githubactions" alt="Cloud and DevOps tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,nginx,github,prometheus,grafana&perline=7" alt="Cloud and DevOps tools"/>
 </p>
+
+<!-- p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,,docker,kubernetes,terraform,ansible,linux,nginx,githubactions,git," alt="Cloud, DevOps, and Infrastructure Technologies"/>
+</p-->
 
 - **Cloud:** Amazon Web Services (AWS)
 - **Containers:** Docker, Kubernetes
@@ -82,7 +86,7 @@ I'm also exploring the possibilities of **Artificial Intelligence, Machine Learn
 - **Infrastructure:** Linux, Nginx, server administration, and application deployment
 - **Operations:** Production troubleshooting, performance monitoring, backups, and system reliability
 
-### 🤖 Artificial Intelligence & Machine Learning
+###  Artificial Intelligence & Machine Learning
 
 I'm interested in applying AI to practical business and engineering challenges, with a focus on useful applications rather than technology for its own sake.
 
@@ -97,7 +101,7 @@ Areas of interest include:
 
 **My goal:** Build AI-powered products that combine useful intelligence with reliable software engineering.
 
-### 🔗 Blockchain & Web3
+###  Blockchain & Web3
 
 I'm exploring blockchain development and decentralized application architecture, particularly where distributed ledgers and smart contracts provide practical value.
 
@@ -114,7 +118,7 @@ I approach blockchain as an engineering tool: the focus is on understanding the 
 
 ---
 
-## 🏗️ What I Build
+##  What I Build
 
 I enjoy developing systems that bring together application engineering, data processing, integrations, and infrastructure.
 
@@ -130,7 +134,7 @@ I enjoy developing systems that bring together application engineering, data pro
 
 ---
 
-## 🧠 Engineering Principles
+##  Engineering Principles
 
 I believe strong engineering is about more than choosing popular technologies.
 
@@ -146,7 +150,7 @@ My approach is guided by a few principles:
 
 ---
 
-## 📌 Featured Engineering Work
+##  Featured Engineering Work
 
 I use GitHub to share projects, technical experiments, and practical implementations that demonstrate my approach to software engineering.
 
@@ -160,11 +164,11 @@ My areas of focus include:
 - AI integration and intelligent application development
 - Blockchain and Web3 experiments
 
-Explore my repositories to see what I'm building and the engineering decisions behind each project.
+
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 - Practical AI and LLM-powered applications
 - Retrieval-Augmented Generation and intelligent search
@@ -192,7 +196,7 @@ Explore my repositories to see what I'm building and the engineering decisions b
 
 -->
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always happy to connect with engineers, architects, technology leaders, and people building products that solve meaningful problems.
 
