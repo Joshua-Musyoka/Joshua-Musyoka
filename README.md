@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/joshua-musyoka">
-    <img src="https://img.shields.io/badge/GitHub-joshua-musyoka-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-joshua--musyoka-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/joshua-musyoka">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -175,6 +175,8 @@ Explore my repositories to see what I'm building and the engineering decisions b
 
 ---
 
+<!--
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -187,6 +189,8 @@ Explore my repositories to see what I'm building and the engineering decisions b
     alt="Most used programming languages"
   />
 </p>
+
+-->
 
 ## 🤝 Let's Connect
 
