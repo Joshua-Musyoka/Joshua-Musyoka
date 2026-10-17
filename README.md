@@ -56,5 +56,5 @@ I believe in understanding the problem before choosing the technology, keeping s
 I'm always interested in meaningful engineering challenges, exchanging ideas with other developers, and building useful products.
 
 - GitHub: https://github.com/joshuathedevop
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/joshua-musyoka)
+- LinkedIn: [Joshua Musyoka](https://www.linkedin.com/in/joshua-musyoka)
 - Email: joshuamusyokadeveloper@gmail.com
